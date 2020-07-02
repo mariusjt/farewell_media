@@ -1,4 +1,17 @@
+
+
 # farewell
+
+# volarrow keymap
+
+|          |            |          |
+|----------|------------|----------|
+|   STOP   | PLAY/PAUSE | VOL/MUTE |
+| PREVIOUS |     UP     |   NEXT   |
+|   LEFT   |    DOWN    |   RIGHT  |
+|          |            |          |
+
+
 ![farewell(imgur.com image replace me!)
 
 A short description of the keyboard/project
